@@ -16,7 +16,7 @@
     "{%= scene %}": [
       "coui://ui/mods/{%= name %}/{%= name %}.css",
       "coui://ui/mods/{%= name %}/{%= name %}.js"
-    ],
+    ]
   },
   "signature": "not yet implemented",
   "version": "{%= version %}"
